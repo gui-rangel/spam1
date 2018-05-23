@@ -2,6 +2,8 @@
 import os
 import sys
 
+now for streaming, let's hope it works!!
+
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "spamnesty.settings")
     try:
