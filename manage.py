@@ -3,7 +3,7 @@ import os
 import sys
 
 njnk
-
+qwravsdcZX
 if __name__ == "__main__":
     os.environ.setdefault("DJANGO_SETTINGS_MODULE", "spamnesty.settings")
     try:
